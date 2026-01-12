@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+  font-family: "Lato", sans-serif;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background-color: hsl(0deg, 0%, 100%);
+}
+
+/* Add styles here! */
+
+hr {
+  background-color: hsl(0deg, 0%, 60%);
+  height: 8px;
+  margin: 0;
+  border: none;
+}
+
+.max-width-wrapper {
+  width: 400px;
+  margin: 0 auto;
+}
+
+strong {
+  color: hsl(160deg, 100%, 30%);
+}
+
+card {
+}
+
+main {
+  background-color: hsl(0deg, 0%, 40%);
+}
